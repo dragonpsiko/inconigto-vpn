@@ -34,7 +34,7 @@ routes = [
 
 [[kv_namespaces]]
 binding = "SIREN"
-id = "f7a1c12a83d349bb8e8868e7d524ac4c"
+id = "500988753274451c8670de5512cf9c36"
 [build]
 command = "cargo install -q worker-build && worker-build --release"
 
@@ -42,7 +42,7 @@ command = "cargo install -q worker-build && worker-build --release"
 build = { command = "cargo install -q worker-build && worker-build --dev" }
 
 [vars]
-UUID = "bbbbbbbb-cccc-4ddd-eeee-ffffffffffff"
+UUID = "6c252575-e0dd-43f9-94c3-9e73969a65a6"
 MAIN_PAGE_URL = "https://raw.githubusercontent.com/InconigtoMode/inconigto-vpn/refs/heads/master/web/index.html"
 SUB_PAGE_URL = "https://raw.githubusercontent.com/InconigtoMode/inconigto-vpn/refs/heads/master/web/sub.html"
 LINK_PAGE_URL = "https://raw.githubusercontent.com/InconigtoMode/inconigto-vpn/refs/heads/master/web/link.html"
